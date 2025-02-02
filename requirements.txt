@@ -1,0 +1,6 @@
+fire
+markdownify
+bs4
+tqdm
+lxml
+requests
